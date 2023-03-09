@@ -1628,6 +1628,7 @@ Rishabh Pandey
 - [Mohit Bishwokarma](https://github.com/Mohitbishukarma)
 - [Matt Arias](https://github.com/FreedSoul)
 - [Alex Song](https://github.com/TheRealAlexSong)
+- Jaylen Lee
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [aryan sinha devsoc pi](https://github.com/AryanSinha0809)
 - [Andrea Mammoliti](https://github.com/AndreusSH)
